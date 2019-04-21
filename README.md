@@ -1,1 +1,3 @@
 # modelselection_regression_R_teacher
+
+In this project data modeling and model selection are the main goals. The models applied here are regression models.In general regression models trying to explore the connection between an response and a predictor variables. The models are applied here to the teacher evaluation score data set. The goal is to make predictions like the prediction of the teacher evaluation score based on age. On the way different cleaning techniques and exploration methods are applied and helper functions written. Also the train-test-working flow is applied to increase accuracy, validity and repeatability. Besides other packages the moderndive packages are used in the tidyverse.
